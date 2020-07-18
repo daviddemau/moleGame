@@ -55,7 +55,7 @@
   }
 
   .hole:after {
-    background: url('dist/images/dirt.svg') bottom center no-repeat;
+    background: url('../dist/images/dirt.svg') bottom center no-repeat;
     background-size:contain;
     content:'';
     width: 100%;
@@ -65,7 +65,7 @@
   }
 
   .mole {
-    background: url('dist/images/mole.svg') bottom center no-repeat;
+    background: url('../dist/images/mole.svg') bottom center no-repeat;
     background-size:50%;
     width: 100%;
     top: 100%;
