@@ -1,0 +1,22 @@
+{
+  "name": "molegame",
+  "version": "1.0.0",
+  "description": "Enjoy this JavaScript mole game !",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddemau/moleGame.git"
+  },
+  "author": "David Demau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviddemau/moleGame/issues"
+  },
+  "homepage": "https://github.com/daviddemau/moleGame#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
